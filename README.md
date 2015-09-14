@@ -1,4 +1,5 @@
-# comparar_txt
+# Comparação de arquivos texto (php script)
+
 Um script em PHP para comparar dois arquivos texto e exibir as diferenças.
 
 Para utilizá-lo, chame o script passando dois arquivos texto por parâmetro.
