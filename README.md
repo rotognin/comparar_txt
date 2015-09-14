@@ -2,7 +2,7 @@
 
 Um script em PHP para comparar dois arquivos texto e exibir as diferenças.
 
-Para utilizá-lo, chame o script passando dois arquivos texto por parâmetro.
+Para utilizá-lo, chame o script passando dois arquivos texto por parâmetro.<br>
 Exemplo: <code>php -f compara.php texto1.txt texto2.txt</code>
 
 Serão feitas comparações exibindo um "*" quando as linhas de ambos os arquivos forem iguais e, quando diferente, aparecerão "1" ou "2" mostrando que 
